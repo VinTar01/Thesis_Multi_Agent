@@ -1,0 +1,28 @@
+# Ambienti virtuali e Cache
+.venv/
+__pycache__/
+
+# Credenziali 
+.env
+
+# Cartelle escluse
+TestCrew3IDFinder/
+
+# 1. IGNORA TUTTO NELLE CARTELLE DINAMICHE 
+casi_estratti_json/*
+casi_inseriti_db/*
+
+# 2. Mantieni solo questi file specifici
+!casi_estratti_json/delitto_di_cogne.json
+!casi_estratti_json/delitto_di_via_carlo_poma.json
+!casi_estratti_json/omicidio_di_marta_russo.json
+!casi_estratti_json/omicidio_di_marco_vannini.json
+!casi_estratti_json/omicidio_di_giulia_cecchettin.json
+!casi_estratti_json/delitto_di_novi_ligure.json
+
+!casi_inseriti_db/delitto_di_cogne.json
+!casi_inseriti_db/delitto_di_via_carlo_poma.json
+!casi_inseriti_db/omicidio_di_marta_russo.json
+!casi_inseriti_db/omicidio_di_marco_vannini.json
+!casi_inseriti_db/omicidio_di_giulia_cecchettin.json
+!casi_inseriti_db/delitto_di_novi_ligure.json

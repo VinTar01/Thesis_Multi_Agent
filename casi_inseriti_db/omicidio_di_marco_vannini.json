@@ -1,0 +1,388 @@
+{
+    "entities": [
+        {
+            "id": "case_omicidio_marco_vannini",
+            "label": "Case",
+            "name": "Omicidio di Marco Vannini",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_marco_vannini",
+            "label": "Person",
+            "name": "Marco Vannini",
+            "role": "Vittima",
+            "gender": "Maschio",
+            "age": "20",
+            "profession": "bagnino"
+        },
+        {
+            "id": "person_antonio_ciontoli",
+            "label": "Person",
+            "name": "Antonio Ciontoli",
+            "role": "Colpevole",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "sottufficiale della Marina Militare"
+        },
+        {
+            "id": "person_martina_ciontoli",
+            "label": "Person",
+            "name": "Martina Ciontoli",
+            "role": "Imputata",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_marina_conte",
+            "label": "Person",
+            "name": "Marina Conte",
+            "role": "Madre della vittima",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_valerio_vannini",
+            "label": "Person",
+            "name": "Valerio Vannini",
+            "role": "Padre della vittima",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_federico_ciontoli",
+            "label": "Person",
+            "name": "Federico Ciontoli",
+            "role": "Imputato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_maria_pezzillo",
+            "label": "Person",
+            "name": "Maria Pezzillo",
+            "role": "Imputata",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_viola_giorgini",
+            "label": "Person",
+            "name": "Viola Giorgini",
+            "role": "Imputata assolta",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_roberto_izzo",
+            "label": "Person",
+            "name": "Roberto Izzo",
+            "role": "Comandante",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Comandante"
+        },
+        {
+            "id": "person_alessandro_carlini",
+            "label": "Person",
+            "name": "Alessandro Carlini",
+            "role": "Testimone",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_ladispoli",
+            "label": "Location",
+            "name": "Ladispoli",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_villetta_ciontoli",
+            "label": "Location",
+            "name": "Villetta della famiglia Ciontoli a Ladispoli",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_pit_ladispoli",
+            "label": "Location",
+            "name": "PIT di Ladispoli",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_policlinico_gemelli",
+            "label": "Location",
+            "name": "Policlinico Gemelli",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "weapon_beretta_92",
+            "label": "Weapon",
+            "name": "Beretta 92 calibro 9",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_polvere_da_sparo",
+            "label": "Evidence",
+            "name": "Particelle di polvere da sparo sui vestiti",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_colpo_aria",
+            "label": "Statement",
+            "name": "Dichiarazione iniziale del colpo d'aria",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_pettine_punta",
+            "label": "Statement",
+            "name": "Dichiarazione del buchino sul braccio con un pettine a punta",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "motive_opposizione_militare",
+            "label": "Motive",
+            "name": "Opposizione al sogno di diventare militare e tensioni di coppia",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_omicidio_volontario",
+            "label": "Charge",
+            "name": "Omicidio volontario",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_omicidio_colposo",
+            "label": "Charge",
+            "name": "Omicidio colposo",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_concorso_anomalo",
+            "label": "Charge",
+            "name": "Concorso anomalo in omicidio volontario",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        }
+    ],
+    "relationships": [
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "COMMITTED"
+        },
+        {
+            "source_id": "person_marco_vannini",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "IS_VICTIM_OF"
+        },
+        {
+            "source_id": "person_martina_ciontoli",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_federico_ciontoli",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_maria_pezzillo",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_viola_giorgini",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_marina_conte",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_valerio_vannini",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "case_omicidio_marco_vannini",
+            "target_id": "location_ladispoli",
+            "type": "OCCURRED_AT"
+        },
+        {
+            "source_id": "location_villetta_ciontoli",
+            "target_id": "location_ladispoli",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "weapon_beretta_92",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "USED_IN"
+        },
+        {
+            "source_id": "weapon_beretta_92",
+            "target_id": "location_villetta_ciontoli",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "case_omicidio_marco_vannini",
+            "target_id": "motive_opposizione_militare",
+            "type": "HAS_MOTIVE"
+        },
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "evidence_polvere_da_sparo",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "person_federico_ciontoli",
+            "target_id": "evidence_polvere_da_sparo",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "person_martina_ciontoli",
+            "target_id": "evidence_polvere_da_sparo",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "evidence_polvere_da_sparo",
+            "target_id": "location_villetta_ciontoli",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "location_villetta_ciontoli",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "person_marco_vannini",
+            "target_id": "location_villetta_ciontoli",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "statement_colpo_aria",
+            "type": "MADE_STATEMENT"
+        },
+        {
+            "source_id": "statement_colpo_aria",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "statement_pettine_punta",
+            "type": "MADE_STATEMENT"
+        },
+        {
+            "source_id": "statement_pettine_punta",
+            "target_id": "case_omicidio_marco_vannini",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "charge_omicidio_volontario",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_martina_ciontoli",
+            "target_id": "charge_omicidio_colposo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_federico_ciontoli",
+            "target_id": "charge_omicidio_colposo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_maria_pezzillo",
+            "target_id": "charge_omicidio_colposo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "charge_concorso_anomalo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_martina_ciontoli",
+            "target_id": "charge_concorso_anomalo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_federico_ciontoli",
+            "target_id": "charge_concorso_anomalo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_maria_pezzillo",
+            "target_id": "charge_concorso_anomalo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "case_omicidio_marco_vannini",
+            "target_id": "charge_omicidio_volontario",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_omicidio_marco_vannini",
+            "target_id": "charge_omicidio_colposo",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_omicidio_marco_vannini",
+            "target_id": "charge_concorso_anomalo",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "person_antonio_ciontoli",
+            "target_id": "weapon_beretta_92",
+            "type": "OWNS_WEAPON"
+        }
+    ]
+}

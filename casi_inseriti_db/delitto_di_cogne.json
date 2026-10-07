@@ -1,0 +1,437 @@
+{
+    "entities": [
+        {
+            "id": "case_delitto_di_cogne",
+            "label": "Case",
+            "name": "Delitto di Cogne",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_samuele_lorenzi",
+            "label": "Person",
+            "name": "Samuele Lorenzi",
+            "role": "Vittima",
+            "gender": "Maschio",
+            "age": "3 anni",
+            "profession": null
+        },
+        {
+            "id": "person_annamaria_franzoni",
+            "label": "Person",
+            "name": "Annamaria Franzoni",
+            "role": "Colpevole",
+            "gender": "Femmina",
+            "age": "30",
+            "profession": null
+        },
+        {
+            "id": "person_stefano_lorenzi",
+            "label": "Person",
+            "name": "Stefano Lorenzi",
+            "role": "Marito / Parente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "perito elettrotecnico"
+        },
+        {
+            "id": "person_davide_lorenzi",
+            "label": "Person",
+            "name": "Davide Lorenzi",
+            "role": "Parente / Figlio",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_gioele_lorenzi",
+            "label": "Person",
+            "name": "Gioele Lorenzi",
+            "role": "Parente / Figlio",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_satragni",
+            "label": "Person",
+            "name": "Dottoressa Satragni",
+            "role": "Medico di famiglia",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "Medico"
+        },
+        {
+            "id": "person_giovanni_migliaccio",
+            "label": "Person",
+            "name": "Giovanni Migliaccio",
+            "role": "Neurologo / Consulente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "neurologo"
+        },
+        {
+            "id": "person_carlo_taormina",
+            "label": "Person",
+            "name": "Carlo Taormina",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "avvocato"
+        },
+        {
+            "id": "person_paola_savio",
+            "label": "Person",
+            "name": "Paola Savio",
+            "role": "Avvocato d'ufficio",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "avvocato"
+        },
+        {
+            "id": "person_carlo_federico_grosso",
+            "label": "Person",
+            "name": "Carlo Federico Grosso",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "avvocato"
+        },
+        {
+            "id": "person_ulisse_guichardaz",
+            "label": "Person",
+            "name": "Ulisse Guichardaz",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "guardaparco"
+        },
+        {
+            "id": "person_daniela_ferrod",
+            "label": "Person",
+            "name": "Daniela Ferrod",
+            "role": "Vicina di casa",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_eugenio_gramola",
+            "label": "Person",
+            "name": "Eugenio Gramola",
+            "role": "Giudice dell'udienza preliminare",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "giudice"
+        },
+        {
+            "id": "location_montroz",
+            "label": "Location",
+            "name": "Montroz",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_cogne",
+            "label": "Location",
+            "name": "Cogne",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_valle_d_aosta",
+            "label": "Location",
+            "name": "Valle d'Aosta",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_villetta_montroz",
+            "label": "Location",
+            "name": "Villetta di Montroz",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "weapon_corpo_contundente",
+            "label": "Weapon",
+            "name": "Corpo contundente (mestolo di rame o simile)",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_sangue_pigiama_ciabatte",
+            "label": "Evidence",
+            "name": "Sangue e tracce anatomiche sul pigiama e sulle ciabatte di Annamaria Franzoni",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_ferita_capo",
+            "label": "Evidence",
+            "name": "Profonda ferita al capo con fuoriuscita di materia grigia",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_microtracce_rame",
+            "label": "Evidence",
+            "name": "Microtracce di rame sul capo della vittima",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_impronta_digitale_falsa",
+            "label": "Evidence",
+            "name": "Impronta digitale con luminolo sulla porta della camera da letto",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_telefonata_118",
+            "label": "Statement",
+            "name": "Chiamata al 118 in cui si dice di aver trovato il figlio che vomita sangue",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_alibi_guichardaz",
+            "label": "Statement",
+            "name": "Alibi di Ulisse Guichardaz sul lavoro nel negozio di alimentari",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_omicidio_volontario",
+            "label": "Charge",
+            "name": "Omicidio volontario aggravato dal vincolo di parentela",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_calunnia",
+            "label": "Charge",
+            "name": "Calunnia",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_frode_processuale",
+            "label": "Charge",
+            "name": "Frode processuale",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "motive_sconosciuto_o_agitazione",
+            "label": "Motive",
+            "name": "Agitazione improvvisa / dispetto / nessuno",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        }
+    ],
+    "relationships": [
+        {
+            "source_id": "person_annamaria_franzoni",
+            "target_id": "case_delitto_di_cogne",
+            "type": "COMMITTED"
+        },
+        {
+            "source_id": "person_samuele_lorenzi",
+            "target_id": "case_delitto_di_cogne",
+            "type": "IS_VICTIM_OF"
+        },
+        {
+            "source_id": "person_ulisse_guichardaz",
+            "target_id": "case_delitto_di_cogne",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_daniela_ferrod",
+            "target_id": "case_delitto_di_cogne",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_stefano_lorenzi",
+            "target_id": "case_delitto_di_cogne",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_davide_lorenzi",
+            "target_id": "case_delitto_di_cogne",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_gioele_lorenzi",
+            "target_id": "case_delitto_di_cogne",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_satragni",
+            "target_id": "case_delitto_di_cogne",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_giovanni_migliaccio",
+            "target_id": "case_delitto_di_cogne",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_carlo_taormina",
+            "target_id": "person_annamaria_franzoni",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_paola_savio",
+            "target_id": "person_annamaria_franzoni",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_carlo_federico_grosso",
+            "target_id": "person_annamaria_franzoni",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "case_delitto_di_cogne",
+            "target_id": "location_villetta_montroz",
+            "type": "OCCURRED_AT"
+        },
+        {
+            "source_id": "location_montroz",
+            "target_id": "location_cogne",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_cogne",
+            "target_id": "location_valle_d_aosta",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "weapon_corpo_contundente",
+            "target_id": "case_delitto_di_cogne",
+            "type": "USED_IN"
+        },
+        {
+            "source_id": "evidence_sangue_pigiama_ciabatte",
+            "target_id": "location_villetta_montroz",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_ferita_capo",
+            "target_id": "location_villetta_montroz",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_microtracce_rame",
+            "target_id": "location_villetta_montroz",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_impronta_digitale_falsa",
+            "target_id": "location_villetta_montroz",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "case_delitto_di_cogne",
+            "target_id": "motive_sconosciuto_o_agitazione",
+            "type": "HAS_MOTIVE"
+        },
+        {
+            "source_id": "person_annamaria_franzoni",
+            "target_id": "evidence_sangue_pigiama_ciabatte",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "person_annamaria_franzoni",
+            "target_id": "location_villetta_montroz",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "person_samuele_lorenzi",
+            "target_id": "location_villetta_montroz",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "person_annamaria_franzoni",
+            "target_id": "statement_telefonata_118",
+            "type": "MADE_STATEMENT"
+        },
+        {
+            "source_id": "person_ulisse_guichardaz",
+            "target_id": "statement_alibi_guichardaz",
+            "type": "MADE_STATEMENT"
+        },
+        {
+            "source_id": "statement_telefonata_118",
+            "target_id": "case_delitto_di_cogne",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "statement_alibi_guichardaz",
+            "target_id": "case_delitto_di_cogne",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "person_annamaria_franzoni",
+            "target_id": "charge_omicidio_volontario",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_annamaria_franzoni",
+            "target_id": "charge_calunnia",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_annamaria_franzoni",
+            "target_id": "charge_frode_processuale",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "case_delitto_di_cogne",
+            "target_id": "charge_omicidio_volontario",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_delitto_di_cogne",
+            "target_id": "charge_calunnia",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_delitto_di_cogne",
+            "target_id": "charge_frode_processuale",
+            "type": "INCLUDES_CHARGE"
+        }
+    ]
+}

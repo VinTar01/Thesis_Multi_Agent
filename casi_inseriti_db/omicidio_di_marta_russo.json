@@ -1,0 +1,539 @@
+{
+    "entities": [
+        {
+            "id": "case_omicidio_marta_russo",
+            "label": "Case",
+            "name": "Omicidio di Marta Russo",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_marta_russo",
+            "label": "Person",
+            "name": "Marta Russo",
+            "role": "Vittima",
+            "gender": "Femmina",
+            "age": "22",
+            "profession": "studentessa di giurisprudenza"
+        },
+        {
+            "id": "person_giovanni_scattone",
+            "label": "Person",
+            "name": "Giovanni Scattone",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": "29",
+            "profession": "assistente universitario"
+        },
+        {
+            "id": "person_salvatore_ferraro",
+            "label": "Person",
+            "name": "Salvatore Ferraro",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": "30",
+            "profession": "collega assistente universitario"
+        },
+        {
+            "id": "person_francesco_liparota",
+            "label": "Person",
+            "name": "Francesco Liparota",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": "35",
+            "profession": "usciere"
+        },
+        {
+            "id": "person_jolanda_ricci",
+            "label": "Person",
+            "name": "Jolanda Ricci",
+            "role": "Testimone",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_donato_russo",
+            "label": "Person",
+            "name": "Donato Russo",
+            "role": "Parente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_aureliana_iacoboni",
+            "label": "Person",
+            "name": "Aureliana Iacoboni",
+            "role": "Parente",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_tiziana_russo",
+            "label": "Person",
+            "name": "Tiziana Russo",
+            "role": "Parente",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_bruno_romano",
+            "label": "Person",
+            "name": "Bruno Romano",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "direttore dell'istituto e filosofo"
+        },
+        {
+            "id": "person_gabriella_alletto",
+            "label": "Person",
+            "name": "Gabriella Alletto",
+            "role": "Testimone",
+            "gender": "Femmina",
+            "age": "45",
+            "profession": "impiegata dell'istituto"
+        },
+        {
+            "id": "person_carmelo_rino_zingale",
+            "label": "Person",
+            "name": "Carmelo \"Rino\" Zingale",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "bibliotecario"
+        },
+        {
+            "id": "person_maria_chiara_lipari",
+            "label": "Person",
+            "name": "Maria Chiara Lipari",
+            "role": "Testimone",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "dottoranda"
+        },
+        {
+            "id": "person_nicol_lipari",
+            "label": "Person",
+            "name": "Nicolò Lipari",
+            "role": "Testimone",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "professore"
+        },
+        {
+            "id": "person_giuliana_olzai",
+            "label": "Person",
+            "name": "Giuliana Olzai",
+            "role": "Testimone",
+            "gender": "Femmina",
+            "age": "44",
+            "profession": "studentessa fuoricorso"
+        },
+        {
+            "id": "person_italo_ormanni",
+            "label": "Person",
+            "name": "Italo Ormanni",
+            "role": "PM",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Procuratore"
+        },
+        {
+            "id": "person_carlo_lasperanza",
+            "label": "Person",
+            "name": "Carlo Lasperanza",
+            "role": "PM",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Pubblico Ministero"
+        },
+        {
+            "id": "person_francesco_petrelli",
+            "label": "Person",
+            "name": "Francesco Petrelli",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "avvocato difensore"
+        },
+        {
+            "id": "person_vincenzo_siniscalchi",
+            "label": "Person",
+            "name": "Vincenzo Siniscalchi",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "avvocato difensore"
+        },
+        {
+            "id": "person_giulia_bongiorno",
+            "label": "Person",
+            "name": "Giulia Bongiorno",
+            "role": "Avvocato",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "avvocato difensore"
+        },
+        {
+            "id": "person_franco_coppi",
+            "label": "Person",
+            "name": "Franco Coppi",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "avvocato difensore"
+        },
+        {
+            "id": "location_citta_universitaria_sapienza",
+            "label": "Location",
+            "name": "Città Universitaria della Sapienza",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_roma",
+            "label": "Location",
+            "name": "Roma",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_policlinico_umberto_i",
+            "label": "Location",
+            "name": "Policlinico Umberto I",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_istituto_filosofia_diritto",
+            "label": "Location",
+            "name": "Istituto di Filosofia del Diritto",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_aula_6",
+            "label": "Location",
+            "name": "Aula 6 di Filosofia del Diritto",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_bagno_disabili_statistica",
+            "label": "Location",
+            "name": "Bagno disabili di Statistica",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "weapon_pistola_calibro_22",
+            "label": "Weapon",
+            "name": "Pistola calibro .22",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_proiettile",
+            "label": "Evidence",
+            "name": "Proiettile calibro .22 a punta cava",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_particelle_metalli",
+            "label": "Evidence",
+            "name": "Particelle di ferro-bario-antimonio sul davanzale",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_borsa_ferraro",
+            "label": "Evidence",
+            "name": "Residui chimici nella borsa di Ferraro",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_alletto_accusa",
+            "label": "Statement",
+            "name": "Dichiarazione di Gabriella Alletto del 14 giugno che accusa Scattone e Ferraro",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_scattone_alibi",
+            "label": "Statement",
+            "name": "Alibi fornito da Giovanni Scattone",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "motive_nessun_movente",
+            "label": "Motive",
+            "name": "Assenza di movente / Sparo accidentale per imprudenza",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_omicidio_colposo",
+            "label": "Charge",
+            "name": "Omicidio colposo aggravato",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_favoreggiamento",
+            "label": "Charge",
+            "name": "Favoreggiamento personale",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_porto_illegale_arma",
+            "label": "Charge",
+            "name": "Detenzione e porto illegale di arma da fuoco",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        }
+    ],
+    "relationships": [
+        {
+            "source_id": "person_marta_russo",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "IS_VICTIM_OF"
+        },
+        {
+            "source_id": "person_giovanni_scattone",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_salvatore_ferraro",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_francesco_liparota",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_bruno_romano",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_carmelo_rino_zingale",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_italo_ormanni",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_carlo_lasperanza",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_francesco_petrelli",
+            "target_id": "person_giovanni_scattone",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_vincenzo_siniscalchi",
+            "target_id": "person_salvatore_ferraro",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_giulia_bongiorno",
+            "target_id": "person_bruno_romano",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_franco_coppi",
+            "target_id": "person_bruno_romano",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_jolanda_ricci",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_donato_russo",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_aureliana_iacoboni",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_tiziana_russo",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_gabriella_alletto",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_maria_chiara_lipari",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_giuliana_olzai",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "case_omicidio_marta_russo",
+            "target_id": "location_citta_universitaria_sapienza",
+            "type": "OCCURRED_AT"
+        },
+        {
+            "source_id": "location_citta_universitaria_sapienza",
+            "target_id": "location_roma",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_policlinico_umberto_i",
+            "target_id": "location_roma",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_istituto_filosofia_diritto",
+            "target_id": "location_citta_universitaria_sapienza",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_aula_6",
+            "target_id": "location_istituto_filosofia_diritto",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_bagno_disabili_statistica",
+            "target_id": "location_citta_universitaria_sapienza",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "weapon_pistola_calibro_22",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "USED_IN"
+        },
+        {
+            "source_id": "evidence_proiettile",
+            "target_id": "location_policlinico_umberto_i",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_particelle_metalli",
+            "target_id": "location_aula_6",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_borsa_ferraro",
+            "target_id": "person_salvatore_ferraro",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "case_omicidio_marta_russo",
+            "target_id": "motive_nessun_movente",
+            "type": "HAS_MOTIVE"
+        },
+        {
+            "source_id": "statement_alletto_accusa",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "statement_scattone_alibi",
+            "target_id": "case_omicidio_marta_russo",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "person_gabriella_alletto",
+            "target_id": "statement_alletto_accusa",
+            "type": "MADE_STATEMENT"
+        },
+        {
+            "source_id": "person_giovanni_scattone",
+            "target_id": "statement_scattone_alibi",
+            "type": "MADE_STATEMENT"
+        },
+        {
+            "source_id": "person_giovanni_scattone",
+            "target_id": "charge_omicidio_colposo",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_salvatore_ferraro",
+            "target_id": "charge_favoreggiamento",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_francesco_liparota",
+            "target_id": "charge_favoreggiamento",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "case_omicidio_marta_russo",
+            "target_id": "charge_omicidio_colposo",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_omicidio_marta_russo",
+            "target_id": "charge_favoreggiamento",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_omicidio_marta_russo",
+            "target_id": "charge_porto_illegale_arma",
+            "type": "INCLUDES_CHARGE"
+        }
+    ]
+}

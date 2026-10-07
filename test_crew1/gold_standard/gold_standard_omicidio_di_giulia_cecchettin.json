@@ -1,0 +1,271 @@
+{
+"entities": [
+{
+"id": "case_omicidio_giulia_cecchettin",
+"label": "Case",
+"name": "Omicidio di Giulia Cecchettin"
+},
+{
+"id": "loc_vigonovo",
+"label": "Location",
+"name": "Vigonovo (Parcheggio via Aldo Moro)"
+},
+{
+"id": "loc_fosso",
+"label": "Location",
+"name": "Fossò (Zona industriale)"
+},
+{
+"id": "loc_lago_barcis",
+"label": "Location",
+"name": "Lago di Barcis"
+},
+{
+"id": "loc_germania",
+"label": "Location",
+"name": "Germania (Bad Dürrenberg/Halle)"
+},
+{
+"id": "person_giulia_cecchettin",
+"label": "Person",
+"name": "Giulia Cecchettin"
+},
+{
+"id": "person_filippo_turetta",
+"label": "Person",
+"name": "Filippo Turetta"
+},
+{
+"id": "person_gino_cecchettin",
+"label": "Person",
+"name": "Gino Cecchettin"
+},
+{
+"id": "person_elena_cecchettin",
+"label": "Person",
+"name": "Elena Cecchettin"
+},
+{
+"id": "person_davide_cecchettin",
+"label": "Person",
+"name": "Davide Cecchettin"
+},
+{
+"id": "person_giovanni_caruso",
+"label": "Person",
+"name": "Giovanni Caruso"
+},
+{
+"id": "person_stefano_tigani",
+"label": "Person",
+"name": "Stefano Tigani"
+},
+{
+"id": "weapon_coltello",
+"label": "Weapon",
+"name": "Coltello"
+},
+{
+"id": "evidence_fiat_grande_punto",
+"label": "Evidence",
+"name": "Fiat Grande Punto nera"
+},
+{
+"id": "evidence_tracce_ematiche",
+"label": "Evidence",
+"name": "Tracce ematiche sulla scena dell'aggressione"
+},
+{
+"id": "evidence_corpo_occultato",
+"label": "Evidence",
+"name": "Cadavere occultato in sacchi neri"
+},
+{
+"id": "evidence_videosorveglianza",
+"label": "Evidence",
+"name": "Filmati telecamere di videosorveglianza"
+},
+{
+"id": "statement_timori_giulia",
+"label": "Statement",
+"name": "Messaggi e audio di Giulia sulle pressioni subite"
+},
+{
+"id": "statement_denuncia_elena",
+"label": "Statement",
+"name": "Dichiarazioni di Elena Cecchettin"
+},
+{
+"id": "statement_confessione_turetta",
+"label": "Statement",
+"name": "Confessione e memorandum di Filippo Turetta"
+},
+{
+"id": "charge_omicidio_volontario_aggravato",
+"label": "Charge",
+"name": "Omicidio volontario pluriaggravato"
+},
+{
+"id": "charge_sequestro_persona",
+"label": "Charge",
+"name": "Sequestro di persona"
+},
+{
+"id": "charge_occultamento_cadavere",
+"label": "Charge",
+"name": "Occultamento di cadavere"
+},
+{
+"id": "charge_stalking",
+"label": "Charge",
+"name": "Stalking"
+}
+],
+"relationships": [
+{
+"source_id": "person_filippo_turetta",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "COMMITTED"
+},
+{
+"source_id": "person_giulia_cecchettin",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "IS_VICTIM_OF"
+},
+{
+"source_id": "case_omicidio_giulia_cecchettin",
+"target_id": "loc_vigonovo",
+"type": "OCCURRED_AT"
+},
+{
+"source_id": "case_omicidio_giulia_cecchettin",
+"target_id": "loc_fosso",
+"type": "OCCURRED_AT"
+},
+{
+"source_id": "evidence_fiat_grande_punto",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "USED_IN"
+},
+{
+"source_id": "weapon_coltello",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "USED_IN"
+},
+{
+"source_id": "evidence_tracce_ematiche",
+"target_id": "loc_fosso",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_corpo_occultato",
+"target_id": "loc_lago_barcis",
+"type": "FOUND_AT"
+},
+{
+"source_id": "person_filippo_turetta",
+"target_id": "loc_germania",
+"type": "LOCATED_IN"
+},
+{
+"source_id": "evidence_videosorveglianza",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "RELATES_TO"
+},
+{
+"source_id": "person_giulia_cecchettin",
+"target_id": "statement_timori_giulia",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_elena_cecchettin",
+"target_id": "statement_denuncia_elena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_filippo_turetta",
+"target_id": "statement_confessione_turetta",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "statement_timori_giulia",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "RELATES_TO"
+},
+{
+"source_id": "statement_denuncia_elena",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "RELATES_TO"
+},
+{
+"source_id": "statement_confessione_turetta",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "RELATES_TO"
+},
+{
+"source_id": "person_filippo_turetta",
+"target_id": "charge_omicidio_volontario_aggravato",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "person_filippo_turetta",
+"target_id": "charge_sequestro_persona",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "person_filippo_turetta",
+"target_id": "charge_occultamento_cadavere",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "person_filippo_turetta",
+"target_id": "charge_stalking",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "case_omicidio_giulia_cecchettin",
+"target_id": "charge_omicidio_volontario_aggravato",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "case_omicidio_giulia_cecchettin",
+"target_id": "charge_sequestro_persona",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "case_omicidio_giulia_cecchettin",
+"target_id": "charge_occultamento_cadavere",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "case_omicidio_giulia_cecchettin",
+"target_id": "charge_stalking",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "person_gino_cecchettin",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_elena_cecchettin",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_davide_cecchettin",
+"target_id": "case_omicidio_giulia_cecchettin",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giovanni_caruso",
+"target_id": "person_filippo_turetta",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_stefano_tigani",
+"target_id": "person_gino_cecchettin",
+"type": "DEFENDS"
+}
+]
+}

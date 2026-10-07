@@ -1,0 +1,191 @@
+{
+"entities": [
+{
+"id": "case_delitto_di_cogne",
+"label": "Case",
+"name": "Delitto di Cogne"
+},
+{
+"id": "loc_cogne",
+"label": "Location",
+"name": "Cogne"
+},
+{
+"id": "loc_valle_daosta",
+"label": "Location",
+"name": "Valle d'Aosta"
+},
+{
+"id": "loc_villetta_di_montroz",
+"label": "Location",
+"name": "Villetta di Montroz"
+},
+{
+"id": "person_samuele_lorenzi",
+"label": "Person",
+"name": "Samuele Lorenzi"
+},
+{
+"id": "person_annamaria_franzoni",
+"label": "Person",
+"name": "Annamaria Franzoni"
+},
+{
+"id": "evidence_tracce_ematiche_anatomiche",
+"label": "Evidence",
+"name": "Tracce ematiche e anatomiche della vittima sugli abiti di Annamaria Franzoni"
+},
+{
+"id": "charge_omicidio_volontario",
+"label": "Charge",
+"name": "Omicidio volontario"
+},
+{
+"id": "person_satragni",
+"label": "Person",
+"name": "Dottoressa Satragni"
+},
+{
+"id": "person_giovanni_migliaccio",
+"label": "Person",
+"name": "Giovanni Migliaccio"
+},
+{
+"id": "evidence_microtracce_rame",
+"label": "Evidence",
+"name": "Microtracce di rame rinvenute sul capo della vittima"
+},
+{
+"id": "weapon_corpo_contundente",
+"label": "Weapon",
+"name": "Corpo contundente"
+},
+{
+"id": "weapon_mestolo_di_rame",
+"label": "Weapon",
+"name": "Mestolo di rame"
+},
+{
+"id": "person_carlo_taormina",
+"label": "Person",
+"name": "Carlo Taormina"
+},
+{
+"id": "person_stefano_lorenzi",
+"label": "Person",
+"name": "Stefano Lorenzi"
+},
+{
+"id": "person_ulisse_guichardaz",
+"label": "Person",
+"name": "Ulisse Guichardaz"
+},
+{
+"id": "person_paola_savio",
+"label": "Person",
+"name": "Paola Savio"
+},
+{
+"id": "person_carlo_federico_grosso",
+"label": "Person",
+"name": "Carlo Federico Grosso"
+}
+],
+"relationships": [
+{
+"source_id": "case_delitto_di_cogne",
+"target_id": "loc_villetta_di_montroz",
+"type": "OCCURRED_AT"
+},
+{
+"source_id": "loc_villetta_di_montroz",
+"target_id": "loc_cogne",
+"type": "WITHIN"
+},
+{
+"source_id": "loc_cogne",
+"target_id": "loc_valle_daosta",
+"type": "WITHIN"
+},
+{
+"source_id": "person_samuele_lorenzi",
+"target_id": "case_delitto_di_cogne",
+"type": "IS_VICTIM_OF"
+},
+{
+"source_id": "person_annamaria_franzoni",
+"target_id": "case_delitto_di_cogne",
+"type": "COMMITTED"
+},
+{
+"source_id": "person_annamaria_franzoni",
+"target_id": "charge_omicidio_volontario",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "case_delitto_di_cogne",
+"target_id": "charge_omicidio_volontario",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "evidence_tracce_ematiche_anatomiche",
+"target_id": "loc_villetta_di_montroz",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_microtracce_rame",
+"target_id": "loc_villetta_di_montroz",
+"type": "FOUND_AT"
+},
+{
+"source_id": "person_annamaria_franzoni",
+"target_id": "evidence_tracce_ematiche_anatomiche",
+"type": "LEFT_EVIDENCE"
+},
+{
+"source_id": "weapon_corpo_contundente",
+"target_id": "case_delitto_di_cogne",
+"type": "USED_IN"
+},
+{
+"source_id": "weapon_mestolo_di_rame",
+"target_id": "case_delitto_di_cogne",
+"type": "USED_IN"
+},
+{
+"source_id": "person_carlo_taormina",
+"target_id": "person_annamaria_franzoni",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_carlo_federico_grosso",
+"target_id": "person_annamaria_franzoni",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_paola_savio",
+"target_id": "person_annamaria_franzoni",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_stefano_lorenzi",
+"target_id": "case_delitto_di_cogne",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_ulisse_guichardaz",
+"target_id": "case_delitto_di_cogne",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_satragni",
+"target_id": "case_delitto_di_cogne",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giovanni_migliaccio",
+"target_id": "case_delitto_di_cogne",
+"type": "INVOLVED_IN"
+}
+]
+}

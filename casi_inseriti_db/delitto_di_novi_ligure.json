@@ -1,0 +1,367 @@
+{
+    "entities": [
+        {
+            "id": "case_delitto_di_novi_ligure",
+            "label": "Case",
+            "name": "Delitto di Novi Ligure",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_erika_de_nardo",
+            "label": "Person",
+            "name": "Erika De Nardo",
+            "role": "Assassina",
+            "gender": "Femmina",
+            "age": "sedici anni",
+            "profession": "studentessa"
+        },
+        {
+            "id": "person_mauro_favaro",
+            "label": "Person",
+            "name": "Mauro Favaro",
+            "role": "Assassino",
+            "gender": "Maschio",
+            "age": "diciassette anni",
+            "profession": null
+        },
+        {
+            "id": "person_susanna_cassini",
+            "label": "Person",
+            "name": "Susanna Cassini",
+            "role": "Vittima",
+            "gender": "Femmina",
+            "age": "quarantunenne",
+            "profession": "contabile"
+        },
+        {
+            "id": "person_gianluca_de_nardo",
+            "label": "Person",
+            "name": "Gianluca De Nardo",
+            "role": "Vittima",
+            "gender": "Maschio",
+            "age": "undicenne",
+            "profession": null
+        },
+        {
+            "id": "person_francesco_de_nardo",
+            "label": "Person",
+            "name": "Francesco De Nardo",
+            "role": "Obiettivo mancato",
+            "gender": "Maschio",
+            "age": "quarantacinquenne",
+            "profession": "ingegnere e dirigente"
+        },
+        {
+            "id": "location_novi_ligure",
+            "label": "Location",
+            "name": "Novi Ligure",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_alessandria",
+            "label": "Location",
+            "name": "Alessandria",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_via_dacatra_12",
+            "label": "Location",
+            "name": "via don Beniamino Dacatra, 12",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_lodolino",
+            "label": "Location",
+            "name": "Lodolino",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "weapon_coltello_cucina",
+            "label": "Weapon",
+            "name": "coltello da cucina",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_tracce_ematiche",
+            "label": "Evidence",
+            "name": "tracce ematiche",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_orme_insanguinate",
+            "label": "Evidence",
+            "name": "orme insanguinate",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_polvere_topicida",
+            "label": "Evidence",
+            "name": "polvere topicida",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_cezar_tellalli",
+            "label": "Person",
+            "name": "Cezar Tellalli",
+            "role": "Sospettato ingiustamente",
+            "gender": "Maschio",
+            "age": "diciassette anni",
+            "profession": null
+        },
+        {
+            "id": "person_livia_locci",
+            "label": "Person",
+            "name": "Livia Locci",
+            "role": "Pubblico Ministero",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "Pubblico Ministero"
+        },
+        {
+            "id": "person_mario_boccassi",
+            "label": "Person",
+            "name": "Mario Boccassi",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Avvocato"
+        },
+        {
+            "id": "person_cesare_zaccone",
+            "label": "Person",
+            "name": "Cesare Zaccone",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Avvocato"
+        },
+        {
+            "id": "person_vittorio_gatti",
+            "label": "Person",
+            "name": "Vittorio Gatti",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Avvocato"
+        },
+        {
+            "id": "person_lorenzo_repetti",
+            "label": "Person",
+            "name": "Lorenzo Repetti",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Avvocato"
+        },
+        {
+            "id": "person_mario_gugole",
+            "label": "Person",
+            "name": "Mario Gugole",
+            "role": "Fidanzato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "musicista"
+        },
+        {
+            "id": "person_antonio_mazzi",
+            "label": "Person",
+            "name": "Antonio Mazzi",
+            "role": "Sacerdote",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "don"
+        },
+        {
+            "id": "motive_conflittualita_scolastica",
+            "label": "Motive",
+            "name": "Conflittualità per scarso rendimento scolastico e timore cattive frequentazioni",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_omicidio_volontario",
+            "label": "Charge",
+            "name": "Duplice omicidio premeditato",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        }
+    ],
+    "relationships": [
+        {
+            "source_id": "person_erika_de_nardo",
+            "target_id": "case_delitto_di_novi_ligure",
+            "type": "COMMITTED"
+        },
+        {
+            "source_id": "person_mauro_favaro",
+            "target_id": "case_delitto_di_novi_ligure",
+            "type": "COMMITTED"
+        },
+        {
+            "source_id": "person_susanna_cassini",
+            "target_id": "case_delitto_di_novi_ligure",
+            "type": "IS_VICTIM_OF"
+        },
+        {
+            "source_id": "person_gianluca_de_nardo",
+            "target_id": "case_delitto_di_novi_ligure",
+            "type": "IS_VICTIM_OF"
+        },
+        {
+            "source_id": "person_cezar_tellalli",
+            "target_id": "case_delitto_di_novi_ligure",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_livia_locci",
+            "target_id": "case_delitto_di_novi_ligure",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_mario_boccassi",
+            "target_id": "person_erika_de_nardo",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_cesare_zaccone",
+            "target_id": "person_erika_de_nardo",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_vittorio_gatti",
+            "target_id": "person_mauro_favaro",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_lorenzo_repetti",
+            "target_id": "person_mauro_favaro",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "case_delitto_di_novi_ligure",
+            "target_id": "location_novi_ligure",
+            "type": "OCCURRED_AT"
+        },
+        {
+            "source_id": "location_novi_ligure",
+            "target_id": "location_alessandria",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_via_dacatra_12",
+            "target_id": "location_lodolino",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_lodolino",
+            "target_id": "location_novi_ligure",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "weapon_coltello_cucina",
+            "target_id": "case_delitto_di_novi_ligure",
+            "type": "USED_IN"
+        },
+        {
+            "source_id": "weapon_coltello_cucina",
+            "target_id": "location_via_dacatra_12",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_tracce_ematiche",
+            "target_id": "location_via_dacatra_12",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_orme_insanguinate",
+            "target_id": "location_via_dacatra_12",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_polvere_topicida",
+            "target_id": "location_via_dacatra_12",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "case_delitto_di_novi_ligure",
+            "target_id": "motive_conflittualita_scolastica",
+            "type": "HAS_MOTIVE"
+        },
+        {
+            "source_id": "person_erika_de_nardo",
+            "target_id": "evidence_tracce_ematiche",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "person_mauro_favaro",
+            "target_id": "evidence_tracce_ematiche",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "case_delitto_di_novi_ligure",
+            "target_id": "charge_omicidio_volontario",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "person_erika_de_nardo",
+            "target_id": "charge_omicidio_volontario",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_mauro_favaro",
+            "target_id": "charge_omicidio_volontario",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_erika_de_nardo",
+            "target_id": "location_via_dacatra_12",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "person_mauro_favaro",
+            "target_id": "location_via_dacatra_12",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "person_susanna_cassini",
+            "target_id": "location_via_dacatra_12",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "person_gianluca_de_nardo",
+            "target_id": "location_via_dacatra_12",
+            "type": "LOCATED_IN"
+        }
+    ]
+}

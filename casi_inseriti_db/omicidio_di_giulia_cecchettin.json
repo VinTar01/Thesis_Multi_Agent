@@ -1,0 +1,422 @@
+{
+    "entities": [
+        {
+            "id": "case_omicidio_giulia_cecchettin",
+            "label": "Case",
+            "name": "Omicidio di Giulia Cecchettin",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_giulia_cecchettin",
+            "label": "Person",
+            "name": "Giulia Cecchettin",
+            "role": "Vittima",
+            "gender": "Femmina",
+            "age": "22",
+            "profession": "studentessa"
+        },
+        {
+            "id": "person_filippo_turetta",
+            "label": "Person",
+            "name": "Filippo Turetta",
+            "role": "Assassino",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_gino_cecchettin",
+            "label": "Person",
+            "name": "Gino Cecchettin",
+            "role": "Parente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "ingegnere"
+        },
+        {
+            "id": "person_monica_camerotto",
+            "label": "Person",
+            "name": "Monica Camerotto",
+            "role": "Parente",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_elena_cecchettin",
+            "label": "Person",
+            "name": "Elena Cecchettin",
+            "role": "Parente",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_davide_cecchettin",
+            "label": "Person",
+            "name": "Davide Cecchettin",
+            "role": "Parente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_stefano_tigani",
+            "label": "Person",
+            "name": "Stefano Tigani",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "avvocato"
+        },
+        {
+            "id": "person_giovanni_caruso",
+            "label": "Person",
+            "name": "Giovanni Caruso",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "avvocato"
+        },
+        {
+            "id": "person_bruno_cherchi",
+            "label": "Person",
+            "name": "Bruno Cherchi",
+            "role": "Inquirente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "procuratore"
+        },
+        {
+            "id": "person_andrea_petroni",
+            "label": "Person",
+            "name": "Andrea Petroni",
+            "role": "Inquirente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "pubblico ministero"
+        },
+        {
+            "id": "person_claudio_cipolla",
+            "label": "Person",
+            "name": "Claudio Cipolla",
+            "role": "Testimone",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "vescovo"
+        },
+        {
+            "id": "location_fosso",
+            "label": "Location",
+            "name": "Fossò",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_venezia",
+            "label": "Location",
+            "name": "Venezia",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_padova",
+            "label": "Location",
+            "name": "Padova",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_vigonovo",
+            "label": "Location",
+            "name": "Vigonovo",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_marghera",
+            "label": "Location",
+            "name": "Marghera",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_via_aldo_moro_vigonovo",
+            "label": "Location",
+            "name": "Via Aldo Moro Vigonovo",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_bosco_barcis_piancavallo",
+            "label": "Location",
+            "name": "Bosco tra il lago di Barcis e Piancavallo",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "weapon_coltello",
+            "label": "Weapon",
+            "name": "Lama di coltello lunga 21 cm",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_sangue",
+            "label": "Evidence",
+            "name": "Notevoli quantità di sangue",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_sacchi_plastica",
+            "label": "Evidence",
+            "name": "Sacchi di plastica neri",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_testimone_lite",
+            "label": "Statement",
+            "name": "Segnalazione di un violento litigio in via Aldo Moro",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "statement_turetta_memorandum",
+            "label": "Statement",
+            "name": "Memorandum di confessione di Filippo Turetta",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "motive_possessivita_gelosia",
+            "label": "Motive",
+            "name": "Possessività e fine della relazione sentimentale",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_omicidio_volontario",
+            "label": "Charge",
+            "name": "Omicidio volontario",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_sequestro_persona",
+            "label": "Charge",
+            "name": "Sequestro di persona",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_premeditazione",
+            "label": "Charge",
+            "name": "Premeditazione",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_occultamento_cadavere",
+            "label": "Charge",
+            "name": "Occultamento di cadavere",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        }
+    ],
+    "relationships": [
+        {
+            "source_id": "person_filippo_turetta",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "COMMITTED"
+        },
+        {
+            "source_id": "person_giulia_cecchettin",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "IS_VICTIM_OF"
+        },
+        {
+            "source_id": "person_gino_cecchettin",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_elena_cecchettin",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_davide_cecchettin",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "INVOLVED_IN"
+        },
+        {
+            "source_id": "person_stefano_tigani",
+            "target_id": "person_gino_cecchettin",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_giovanni_caruso",
+            "target_id": "person_filippo_turetta",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_bruno_cherchi",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_andrea_petroni",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "case_omicidio_giulia_cecchettin",
+            "target_id": "location_fosso",
+            "type": "OCCURRED_AT"
+        },
+        {
+            "source_id": "location_fosso",
+            "target_id": "location_venezia",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_vigonovo",
+            "target_id": "location_venezia",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_marghera",
+            "target_id": "location_venezia",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_via_aldo_moro_vigonovo",
+            "target_id": "location_vigonovo",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "weapon_coltello",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "USED_IN"
+        },
+        {
+            "source_id": "weapon_coltello",
+            "target_id": "location_fosso",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_sangue",
+            "target_id": "location_fosso",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_sacchi_plastica",
+            "target_id": "location_bosco_barcis_piancavallo",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "case_omicidio_giulia_cecchettin",
+            "target_id": "motive_possessivita_gelosia",
+            "type": "HAS_MOTIVE"
+        },
+        {
+            "source_id": "person_filippo_turetta",
+            "target_id": "evidence_sangue",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "statement_testimone_lite",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "statement_turetta_memorandum",
+            "target_id": "case_omicidio_giulia_cecchettin",
+            "type": "RELATES_TO"
+        },
+        {
+            "source_id": "person_filippo_turetta",
+            "target_id": "charge_omicidio_volontario",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_filippo_turetta",
+            "target_id": "charge_sequestro_persona",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_filippo_turetta",
+            "target_id": "charge_premeditazione",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "person_filippo_turetta",
+            "target_id": "charge_occultamento_cadavere",
+            "type": "CHARGED_WITH"
+        },
+        {
+            "source_id": "case_omicidio_giulia_cecchettin",
+            "target_id": "charge_omicidio_volontario",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_omicidio_giulia_cecchettin",
+            "target_id": "charge_sequestro_persona",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_omicidio_giulia_cecchettin",
+            "target_id": "charge_premeditazione",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "case_omicidio_giulia_cecchettin",
+            "target_id": "charge_occultamento_cadavere",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "person_filippo_turetta",
+            "target_id": "weapon_coltello",
+            "type": "OWNS_WEAPON"
+        }
+    ]
+}

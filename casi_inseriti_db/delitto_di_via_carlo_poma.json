@@ -1,0 +1,429 @@
+{
+    "entities": [
+        {
+            "id": "case_delitto_via_poma",
+            "label": "Case",
+            "name": "Delitto di via Poma",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_simonetta_cesaroni",
+            "label": "Person",
+            "name": "Simonetta Cesaroni",
+            "role": "Vittima",
+            "gender": "Femmina",
+            "age": "20",
+            "profession": "Segretaria contabile"
+        },
+        {
+            "id": "person_pietrino_vanacore",
+            "label": "Person",
+            "name": "Pietrino Vanacore",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": "58",
+            "profession": "Portiere"
+        },
+        {
+            "id": "person_salvatore_volponi",
+            "label": "Person",
+            "name": "Salvatore Volponi",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Datore di lavoro e tabaccaio"
+        },
+        {
+            "id": "person_federico_valle",
+            "label": "Person",
+            "name": "Federico Valle",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_cesare_valle",
+            "label": "Person",
+            "name": "Cesare Valle",
+            "role": "Testimone",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Architetto"
+        },
+        {
+            "id": "person_raniero_busco",
+            "label": "Person",
+            "name": "Raniero Busco",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_francesco_caracciolo_di_sarno",
+            "label": "Person",
+            "name": "Francesco Caracciolo di Sarno",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Presidente A.I.G. e avvocato"
+        },
+        {
+            "id": "person_mario_vanacore",
+            "label": "Person",
+            "name": "Mario Vanacore",
+            "role": "Sospettato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_claudio_cesaroni",
+            "label": "Person",
+            "name": "Claudio Cesaroni",
+            "role": "Parente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Tranviere"
+        },
+        {
+            "id": "person_anna_di_giambattista",
+            "label": "Person",
+            "name": "Anna Di Giambattista",
+            "role": "Parente",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "Casalinga"
+        },
+        {
+            "id": "person_paola_cesaroni",
+            "label": "Person",
+            "name": "Paola Cesaroni",
+            "role": "Testimone",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_antonello_barone",
+            "label": "Person",
+            "name": "Antonello Barone",
+            "role": "Testimone",
+            "gender": "Maschio",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_giuseppa_de_luca",
+            "label": "Person",
+            "name": "Giuseppa De Luca",
+            "role": "Testimone",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "Portiera"
+        },
+        {
+            "id": "person_giuliana_ferrara",
+            "label": "Person",
+            "name": "Giuliana Ferrara",
+            "role": "Testimone",
+            "gender": "Femmina",
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "person_roland_voller",
+            "label": "Person",
+            "name": "Roland Voller",
+            "role": "Testimone",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Commerciante"
+        },
+        {
+            "id": "person_sergio_costa",
+            "label": "Person",
+            "name": "Sergio Costa",
+            "role": "Inquirente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Vicequestore"
+        },
+        {
+            "id": "person_ilaria_calo",
+            "label": "Person",
+            "name": "Ilaria Calò",
+            "role": "Inquirente",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "Pubblico Ministero"
+        },
+        {
+            "id": "person_roberto_cavallone",
+            "label": "Person",
+            "name": "Roberto Cavallone",
+            "role": "Inquirente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Pubblico Ministero"
+        },
+        {
+            "id": "person_alberto_cozzella",
+            "label": "Person",
+            "name": "Alberto Cozzella",
+            "role": "Inquirente",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Pubblico Ministero"
+        },
+        {
+            "id": "person_paolo_loria",
+            "label": "Person",
+            "name": "Paolo Lorìa",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Avvocato difensore"
+        },
+        {
+            "id": "person_franco_coppi",
+            "label": "Person",
+            "name": "Franco Coppi",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Avvocato difensore"
+        },
+        {
+            "id": "person_massimo_lauro",
+            "label": "Person",
+            "name": "Massimo Lauro",
+            "role": "Avvocato",
+            "gender": "Maschio",
+            "age": null,
+            "profession": "Avvocato di parte civile"
+        },
+        {
+            "id": "person_federica_mondani",
+            "label": "Person",
+            "name": "Federica Mondani",
+            "role": "Avvocato",
+            "gender": "Femmina",
+            "age": null,
+            "profession": "Avvocato di parte civile"
+        },
+        {
+            "id": "location_roma",
+            "label": "Location",
+            "name": "Roma",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_via_poma_2",
+            "label": "Location",
+            "name": "Via Carlo Poma 2",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "location_ufficio_aig",
+            "label": "Location",
+            "name": "Uffici A.I.G., scala B, terzo piano, interno 7",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_tracce_sangue",
+            "label": "Evidence",
+            "name": "Tracce di sangue di gruppo A",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_dna_reggiseno",
+            "label": "Evidence",
+            "name": "DNA maschile su corpetto e reggiseno",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "evidence_biglietto_margherita",
+            "label": "Evidence",
+            "name": "Pezzo di carta con appunto CE e disegno margherita",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "weapon_arma_bianca",
+            "label": "Weapon",
+            "name": "Arma bianca con lama bitagliente (coltello o tagliacarte)",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        },
+        {
+            "id": "charge_omicidio_volontario",
+            "label": "Charge",
+            "name": "Omicidio volontario",
+            "role": null,
+            "gender": null,
+            "age": null,
+            "profession": null
+        }
+    ],
+    "relationships": [
+        {
+            "source_id": "person_simonetta_cesaroni",
+            "target_id": "case_delitto_via_poma",
+            "type": "IS_VICTIM_OF"
+        },
+        {
+            "source_id": "person_pietrino_vanacore",
+            "target_id": "case_delitto_via_poma",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_salvatore_volponi",
+            "target_id": "case_delitto_via_poma",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_federico_valle",
+            "target_id": "case_delitto_via_poma",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_raniero_busco",
+            "target_id": "case_delitto_via_poma",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_francesco_caracciolo_di_sarno",
+            "target_id": "case_delitto_via_poma",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_mario_vanacore",
+            "target_id": "case_delitto_via_poma",
+            "type": "IS_SUSPECTED_IN"
+        },
+        {
+            "source_id": "person_sergio_costa",
+            "target_id": "case_delitto_via_poma",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_ilaria_calo",
+            "target_id": "case_delitto_via_poma",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_roberto_cavallone",
+            "target_id": "case_delitto_via_poma",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_alberto_cozzella",
+            "target_id": "case_delitto_via_poma",
+            "type": "INVESTIGATES"
+        },
+        {
+            "source_id": "person_paolo_loria",
+            "target_id": "person_raniero_busco",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_franco_coppi",
+            "target_id": "person_raniero_busco",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_massimo_lauro",
+            "target_id": "person_anna_di_giambattista",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "person_federica_mondani",
+            "target_id": "person_paola_cesaroni",
+            "type": "DEFENDS"
+        },
+        {
+            "source_id": "case_delitto_via_poma",
+            "target_id": "location_via_poma_2",
+            "type": "OCCURRED_AT"
+        },
+        {
+            "source_id": "location_ufficio_aig",
+            "target_id": "location_via_poma_2",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "location_via_poma_2",
+            "target_id": "location_roma",
+            "type": "WITHIN"
+        },
+        {
+            "source_id": "weapon_arma_bianca",
+            "target_id": "case_delitto_via_poma",
+            "type": "USED_IN"
+        },
+        {
+            "source_id": "weapon_arma_bianca",
+            "target_id": "location_ufficio_aig",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_tracce_sangue",
+            "target_id": "location_ufficio_aig",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_dna_reggiseno",
+            "target_id": "location_ufficio_aig",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "evidence_biglietto_margherita",
+            "target_id": "location_ufficio_aig",
+            "type": "FOUND_AT"
+        },
+        {
+            "source_id": "person_raniero_busco",
+            "target_id": "evidence_dna_reggiseno",
+            "type": "LEFT_EVIDENCE"
+        },
+        {
+            "source_id": "person_simonetta_cesaroni",
+            "target_id": "location_ufficio_aig",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "case_delitto_via_poma",
+            "target_id": "charge_omicidio_volontario",
+            "type": "INCLUDES_CHARGE"
+        },
+        {
+            "source_id": "person_raniero_busco",
+            "target_id": "charge_omicidio_volontario",
+            "type": "CHARGED_WITH"
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+"entities": [
+{
+"id": "case_delitto_novi_ligure",
+"label": "Case",
+"name": "Delitto di Novi Ligure"
+},
+{
+"id": "loc_novi_ligure",
+"label": "Location",
+"name": "Novi Ligure"
+},
+{
+"id": "loc_provincia_alessandria",
+"label": "Location",
+"name": "Provincia di Alessandria"
+},
+{
+"id": "loc_casa_via_dacatra_12",
+"label": "Location",
+"name": "Casa di famiglia in via don Beniamino Dacatra 12"
+},
+{
+"id": "loc_lodolino",
+"label": "Location",
+"name": "Lodolino"
+},
+{
+"id": "person_erika_de_nardo",
+"label": "Person",
+"name": "Erika De Nardo"
+},
+{
+"id": "person_mauro_omar_favaro",
+"label": "Person",
+"name": "Mauro \"Omar\" Favaro"
+},
+{
+"id": "person_susanna_susy_cassini",
+"label": "Person",
+"name": "Susanna \"Susy\" Cassini"
+},
+{
+"id": "person_gianluca_de_nardo",
+"label": "Person",
+"name": "Gianluca De Nardo"
+},
+{
+"id": "person_francesco_de_nardo",
+"label": "Person",
+"name": "Francesco De Nardo"
+},
+{
+"id": "person_cezar_tellalli",
+"label": "Person",
+"name": "Cezar Tellalli"
+},
+{
+"id": "person_mario_boccassi",
+"label": "Person",
+"name": "Mario Boccassi"
+},
+{
+"id": "person_cesare_zaccone",
+"label": "Person",
+"name": "Cesare Zaccone"
+},
+{
+"id": "person_vittorio_gatti",
+"label": "Person",
+"name": "Vittorio Gatti"
+},
+{
+"id": "person_lorenzo_repetti",
+"label": "Person",
+"name": "Lorenzo Repetti"
+},
+{
+"id": "person_livia_locci",
+"label": "Person",
+"name": "Livia Locci"
+},
+{
+"id": "person_mario_gugole",
+"label": "Person",
+"name": "Mario Gugole"
+},
+{
+"id": "person_don_mazzi",
+"label": "Person",
+"name": "Don Antonio Mazzi"
+},
+{
+"id": "weapon_coltello",
+"label": "Weapon",
+"name": "Coltello"
+},
+{
+"id": "motive_rapporti_conflittuali_famiglia",
+"label": "Motive",
+"name": "Rapporti conflittuali con la famiglia"
+},
+{
+"id": "evidence_tracce_sangue_gianluca",
+"label": "Evidence",
+"name": "Tracce ematiche di Gianluca De Nardo sulla scena"
+},
+{
+"id": "evidence_orme_impronte_insanguinate",
+"label": "Evidence",
+"name": "Orme insanguinate sulle scale e impronte sul muro"
+},
+{
+"id": "evidence_tracce_ematiche_stereo",
+"label": "Evidence",
+"name": "Tracce ematiche sullo stereo"
+},
+{
+"id": "evidence_polvere_topicida",
+"label": "Evidence",
+"name": "Tracce di polvere topicida"
+},
+{
+"id": "evidence_pantaloni_omar_insanguinati",
+"label": "Evidence",
+"name": "Pantaloni insanguinati di Mauro Favaro"
+},
+{
+"id": "evidence_ferita_mano_omar",
+"label": "Evidence",
+"name": "Ferita alla mano di Mauro Favaro provocata dal morso di Gianluca"
+},
+{
+"id": "evidence_coltelli_cucina",
+"label": "Evidence",
+"name": "Coltelli appartenenti al servizio da cucina della famiglia"
+},
+{
+"id": "evidence_assenza_effrazione",
+"label": "Evidence",
+"name": "Assenza di segni di effrazione e di sottrazione di oggetti di valore"
+},
+{
+"id": "statement_rapina_extracomunitari",
+"label": "Statement",
+"name": "Dichiarazione di Erika sui due extracomunitari entrati per una rapina"
+},
+{
+"id": "statement_erika_cambiata",
+"label": "Statement",
+"name": "Dichiarazione di Don Mazzi secondo cui Erika sarebbe cambiata durante la detenzione"
+},
+{
+"id": "charge_omicidio_premeditato",
+"label": "Charge",
+"name": "Omicidio premeditato"
+}
+],
+"relationships": [
+{
+"type": "OCCURRED_AT",
+"source_id": "case_delitto_novi_ligure",
+"target_id": "loc_casa_via_dacatra_12"
+},
+{
+"type": "WITHIN",
+"source_id": "loc_casa_via_dacatra_12",
+"target_id": "loc_lodolino"
+},
+{
+"type": "WITHIN",
+"source_id": "loc_lodolino",
+"target_id": "loc_novi_ligure"
+},
+{
+"type": "WITHIN",
+"source_id": "loc_novi_ligure",
+"target_id": "loc_provincia_alessandria"
+},
+{
+"type": "COMMITTED",
+"source_id": "person_erika_de_nardo",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "COMMITTED",
+"source_id": "person_mauro_omar_favaro",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "IS_VICTIM_OF",
+"source_id": "person_susanna_susy_cassini",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "IS_VICTIM_OF",
+"source_id": "person_gianluca_de_nardo",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "INVOLVED_IN",
+"source_id": "person_francesco_de_nardo",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "IS_SUSPECTED_IN",
+"source_id": "person_cezar_tellalli",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "DEFENDS",
+"source_id": "person_mario_boccassi",
+"target_id": "person_erika_de_nardo"
+},
+{
+"type": "DEFENDS",
+"source_id": "person_cesare_zaccone",
+"target_id": "person_erika_de_nardo"
+},
+{
+"type": "DEFENDS",
+"source_id": "person_vittorio_gatti",
+"target_id": "person_mauro_omar_favaro"
+},
+{
+"type": "DEFENDS",
+"source_id": "person_lorenzo_repetti",
+"target_id": "person_mauro_omar_favaro"
+},
+{
+"type": "INVOLVED_IN",
+"source_id": "person_livia_locci",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "INVOLVED_IN",
+"source_id": "person_mario_gugole",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "INVOLVED_IN",
+"source_id": "person_don_mazzi",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "USED_IN",
+"source_id": "weapon_coltello",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "HAS_MOTIVE",
+"source_id": "case_delitto_novi_ligure",
+"target_id": "motive_rapporti_conflittuali_famiglia"
+},
+{
+"type": "FOUND_AT",
+"source_id": "evidence_tracce_sangue_gianluca",
+"target_id": "loc_casa_via_dacatra_12"
+},
+{
+"type": "FOUND_AT",
+"source_id": "evidence_orme_impronte_insanguinate",
+"target_id": "loc_casa_via_dacatra_12"
+},
+{
+"type": "FOUND_AT",
+"source_id": "evidence_tracce_ematiche_stereo",
+"target_id": "loc_casa_via_dacatra_12"
+},
+{
+"type": "FOUND_AT",
+"source_id": "evidence_polvere_topicida",
+"target_id": "loc_casa_via_dacatra_12"
+},
+{
+"type": "FOUND_AT",
+"source_id": "evidence_coltelli_cucina",
+"target_id": "loc_casa_via_dacatra_12"
+},
+{
+"type": "FOUND_AT",
+"source_id": "evidence_assenza_effrazione",
+"target_id": "loc_casa_via_dacatra_12"
+},
+{
+"type": "LEFT_EVIDENCE",
+"source_id": "person_mauro_omar_favaro",
+"target_id": "evidence_pantaloni_omar_insanguinati"
+},
+{
+"type": "FOUND_AT",
+"source_id": "evidence_pantaloni_omar_insanguinati",
+"target_id": "loc_novi_ligure"
+},
+{
+"type": "LEFT_EVIDENCE",
+"source_id": "person_gianluca_de_nardo",
+"target_id": "evidence_tracce_sangue_gianluca"
+},
+{
+"type": "LEFT_EVIDENCE",
+"source_id": "person_mauro_omar_favaro",
+"target_id": "evidence_ferita_mano_omar"
+},
+{
+"type": "INVOLVED_IN",
+"source_id": "person_cezar_tellalli",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "MADE_STATEMENT",
+"source_id": "person_erika_de_nardo",
+"target_id": "statement_rapina_extracomunitari"
+},
+{
+"type": "RELATES_TO",
+"source_id": "statement_rapina_extracomunitari",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "MADE_STATEMENT",
+"source_id": "person_don_mazzi",
+"target_id": "statement_erika_cambiata"
+},
+{
+"type": "RELATES_TO",
+"source_id": "statement_erika_cambiata",
+"target_id": "case_delitto_novi_ligure"
+},
+{
+"type": "CHARGED_WITH",
+"source_id": "person_erika_de_nardo",
+"target_id": "charge_omicidio_premeditato"
+},
+{
+"type": "CHARGED_WITH",
+"source_id": "person_mauro_omar_favaro",
+"target_id": "charge_omicidio_premeditato"
+},
+{
+"type": "INCLUDES_CHARGE",
+"source_id": "case_delitto_novi_ligure",
+"target_id": "charge_omicidio_premeditato"
+}
+]
+}

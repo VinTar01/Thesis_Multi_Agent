@@ -1,0 +1,1458 @@
+{
+"entities": [
+{
+"id": "case_delitto_via_poma",
+"label": "Case",
+"name": "Delitto di via Poma"
+},
+{
+"id": "person_simonetta_cesaroni",
+"label": "Person",
+"name": "Simonetta Cesaroni"
+},
+{
+"id": "person_pietrino_vanacore",
+"label": "Person",
+"name": "Pietrino Vanacore"
+},
+{
+"id": "person_salvatore_volponi",
+"label": "Person",
+"name": "Salvatore Volponi"
+},
+{
+"id": "person_federico_valle",
+"label": "Person",
+"name": "Federico Valle"
+},
+{
+"id": "person_cesare_valle",
+"label": "Person",
+"name": "Cesare Valle"
+},
+{
+"id": "person_raniero_busco",
+"label": "Person",
+"name": "Raniero Busco"
+},
+{
+"id": "person_francesco_caracciolo",
+"label": "Person",
+"name": "Francesco Caracciolo di Sarno"
+},
+{
+"id": "person_mario_vanacore",
+"label": "Person",
+"name": "Mario Vanacore"
+},
+{
+"id": "person_giuseppa_de_luca",
+"label": "Person",
+"name": "Giuseppa De Luca"
+},
+{
+"id": "person_claudio_cesaroni",
+"label": "Person",
+"name": "Claudio Cesaroni"
+},
+{
+"id": "person_anna_di_giambattista",
+"label": "Person",
+"name": "Anna Di Giambattista"
+},
+{
+"id": "person_paola_cesaroni",
+"label": "Person",
+"name": "Paola Cesaroni"
+},
+{
+"id": "person_antonello_barone",
+"label": "Person",
+"name": "Antonello Barone"
+},
+{
+"id": "person_ermanno_bizzocchi",
+"label": "Person",
+"name": "Ermanno Bizzocchi"
+},
+{
+"id": "person_luiginaberrettini",
+"label": "Person",
+"name": "Luigina Berrettini"
+},
+{
+"id": "person_luca_volponi",
+"label": "Person",
+"name": "Luca Volponi"
+},
+{
+"id": "person_sergio_costa",
+"label": "Person",
+"name": "Sergio Costa"
+},
+{
+"id": "person_vincenzo_parisi",
+"label": "Person",
+"name": "Vincenzo Parisi"
+},
+{
+"id": "person_roberto_cavallone",
+"label": "Person",
+"name": "Roberto Cavallone"
+},
+{
+"id": "person_ilaria_cavo",
+"label": "Person",
+"name": "Ilaria Cavo"
+},
+{
+"id": "person_roberto_testi",
+"label": "Person",
+"name": "Roberto Testi"
+},
+{
+"id": "person_carmelo_lavorino",
+"label": "Person",
+"name": "Carmelo Lavorino"
+},
+{
+"id": "person_enrico_mentana",
+"label": "Person",
+"name": "Enrico Mentana"
+},
+{
+"id": "person_roland_voller",
+"label": "Person",
+"name": "Roland Voller"
+},
+{
+"id": "person_giuliana_ferrara",
+"label": "Person",
+"name": "Giuliana Ferrara"
+},
+{
+"id": "person_raniero_valle",
+"label": "Person",
+"name": "Raniero Valle"
+},
+{
+"id": "person_catalani",
+"label": "Person",
+"name": "Catalani"
+},
+{
+"id": "person_calabrese",
+"label": "Person",
+"name": "Calabrese"
+},
+{
+"id": "person_anna_maria_scognamiglio",
+"label": "Person",
+"name": "Anna Maria Scognamiglio"
+},
+{
+"id": "person_rosaria_de_familiis",
+"label": "Person",
+"name": "Rosaria de Familiis"
+},
+{
+"id": "person_paola_loria",
+"label": "Person",
+"name": "Paolo Lorìa"
+},
+{
+"id": "person_gianfederica_dito",
+"label": "Person",
+"name": "Gianfederica Dito"
+},
+{
+"id": "person_maurizio_carbone",
+"label": "Person",
+"name": "Maurizio Carbone"
+},
+{
+"id": "person_mario_macinati",
+"label": "Person",
+"name": "Mario Macinati"
+},
+{
+"id": "person_giuseppe_macinati",
+"label": "Person",
+"name": "Giuseppe Macinati"
+},
+{
+"id": "person_bianca_limongiello",
+"label": "Person",
+"name": "Bianca Limongiello"
+},
+{
+"id": "person_fabio_forza",
+"label": "Person",
+"name": "Fabio Forza"
+},
+{
+"id": "person_salvatore_sibilia",
+"label": "Person",
+"name": "Salvatore Sibilia"
+},
+{
+"id": "person_anita_baldi",
+"label": "Person",
+"name": "Anita Baldi"
+},
+{
+"id": "person_ilariacalo",
+"label": "Person",
+"name": "Ilaria Calò"
+},
+{
+"id": "person_maddalena_cipriani",
+"label": "Person",
+"name": "Maddalena Cipriani"
+},
+{
+"id": "person_emilio_nuzzolese",
+"label": "Person",
+"name": "Emilio Nuzzolese"
+},
+{
+"id": "person_evelina_canale",
+"label": "Person",
+"name": "Evelina Canale"
+},
+{
+"id": "person_paolo_colella",
+"label": "Person",
+"name": "Paolo Colella"
+},
+{
+"id": "person_andrea_magnanelli",
+"label": "Person",
+"name": "Andrea Magnanelli"
+},
+{
+"id": "person_maria_antonietta_la_mazza",
+"label": "Person",
+"name": "Maria Antonietta La Mazza"
+},
+{
+"id": "person_lucio_molinaro",
+"label": "Person",
+"name": "Lucio Molinaro"
+},
+{
+"id": "person_federica_mondani",
+"label": "Person",
+"name": "Federica Mondani"
+},
+{
+"id": "person_massimo_lauro",
+"label": "Person",
+"name": "Massimo Lauro"
+},
+{
+"id": "person_franco_coppi",
+"label": "Person",
+"name": "Franco Coppi"
+},
+{
+"id": "person_alberto_cozzella",
+"label": "Person",
+"name": "Alberto Cozzella"
+},
+{
+"id": "person_mario_lucio_dandria",
+"label": "Person",
+"name": "Mario Lucio D'Andria"
+},
+{
+"id": "person_giancarlo_de_cataldo",
+"label": "Person",
+"name": "Giancarlo De Cataldo"
+},
+{
+"id": "person_giulia_arcieri",
+"label": "Person",
+"name": "Giulia Arcieri"
+},
+{
+"id": "person_marco_santangelo",
+"label": "Person",
+"name": "Marco Santangelo"
+},
+{
+"id": "person_luigi_piccinini",
+"label": "Person",
+"name": "Luigi Piccinini"
+},
+{
+"id": "person_cherubino_gagliardi",
+"label": "Person",
+"name": "Cherubino Gagliardi"
+},
+{
+"id": "person_ciro_solimene",
+"label": "Person",
+"name": "Ciro Solimene"
+},
+{
+"id": "person_franco_martinelli",
+"label": "Person",
+"name": "Franco Martinelli"
+},
+{
+"id": "person_antonio_gaccetta",
+"label": "Person",
+"name": "Antonio Gaccetta"
+},
+{
+"id": "person_laura_nardi",
+"label": "Person",
+"name": "Laura Nardi"
+},
+{
+"id": "person_umberto_minatore",
+"label": "Person",
+"name": "Umberto Minatore"
+},
+{
+"id": "person_sergio_salis",
+"label": "Person",
+"name": "Sergio Salis"
+},
+{
+"id": "person_luigi_mattiacci",
+"label": "Person",
+"name": "Luigi Mattiacci"
+},
+{
+"id": "person_fabrizio_brezzi",
+"label": "Person",
+"name": "Fabrizio Brezzi"
+},
+{
+"id": "person_ali_ben_musba",
+"label": "Person",
+"name": "Ali Ben Musba"
+},
+{
+"id": "person_danilo_gobbi",
+"label": "Person",
+"name": "Danilo Gobbi"
+},
+{
+"id": "person_nicolino_grimaldi",
+"label": "Person",
+"name": "Nicolino Grimaldi"
+},
+{
+"id": "person_virginia_rotti",
+"label": "Person",
+"name": "Virginia Rotti"
+},
+{
+"id": "person_manlio_giammona_indaco",
+"label": "Person",
+"name": "Manlio Giammona Indaco"
+},
+{
+"id": "person_ferdinando_giammona_indaco",
+"label": "Person",
+"name": "Ferdinando Giammona Indaco"
+},
+{
+"id": "person_anna_petrillo",
+"label": "Person",
+"name": "Anna Petrillo"
+},
+{
+"id": "person_ottavio_saviane",
+"label": "Person",
+"name": "Ottavio Saviane"
+},
+{
+"id": "person_giovanni_danese",
+"label": "Person",
+"name": "Giovanni Danese"
+},
+{
+"id": "person_giuseppina_faustini",
+"label": "Person",
+"name": "Giuseppina Faustini"
+},
+{
+"id": "person_riccardo_sensi",
+"label": "Person",
+"name": "Riccardo Sensi"
+},
+{
+"id": "person_flora_de_angelis",
+"label": "Person",
+"name": "Flora De Angelis"
+},
+{
+"id": "person_luigino_prili",
+"label": "Person",
+"name": "Luigino Prili"
+},
+{
+"id": "person_anna_vanacore",
+"label": "Person",
+"name": "Anna Vanacore"
+},
+{
+"id": "person_simone_palombi",
+"label": "Person",
+"name": "Simone Palombi"
+},
+{
+"id": "person_donatella_villani",
+"label": "Person",
+"name": "Donatella Villani"
+},
+{
+"id": "person_sergio_d_aquino",
+"label": "Person",
+"name": "Sergio D'Aquino"
+},
+{
+"id": "person_anna_rita_testa",
+"label": "Person",
+"name": "Anna Rita Testa"
+},
+{
+"id": "person_marco_giusti",
+"label": "Person",
+"name": "Marco Giusti"
+},
+{
+"id": "person_nazzareno_fiorucci",
+"label": "Person",
+"name": "Nazzareno Fiorucci"
+},
+{
+"id": "person_francesca_persico",
+"label": "Person",
+"name": "Francesca Persico"
+},
+{
+"id": "person_rita_surace",
+"label": "Person",
+"name": "Rita Surace"
+},
+{
+"id": "person_luigi_poli",
+"label": "Person",
+"name": "Luigi Poli"
+},
+{
+"id": "person_fabrizio_priori",
+"label": "Person",
+"name": "Fabrizio Priori"
+},
+{
+"id": "person_franco_brucato",
+"label": "Person",
+"name": "Franco Brucato"
+},
+{
+"id": "person_massimo_iacobucci",
+"label": "Person",
+"name": "Massimo Iacobucci"
+},
+{
+"id": "person_marco_cappelletti",
+"label": "Person",
+"name": "Marco Cappelletti"
+},
+{
+"id": "person_vanessa_canali",
+"label": "Person",
+"name": "Vanessa Canali"
+},
+{
+"id": "person_roberta_foschi",
+"label": "Person",
+"name": "Roberta Foschi"
+},
+{
+"id": "person_pietro_camolese",
+"label": "Person",
+"name": "Pietro Camolese"
+},
+{
+"id": "person_stefano_carucci",
+"label": "Person",
+"name": "Stefano Carucci"
+},
+{
+"id": "person_valerio_franchina",
+"label": "Person",
+"name": "Valerio Franchina"
+},
+{
+"id": "person_piero_marietti",
+"label": "Person",
+"name": "Piero Marietti"
+},
+{
+"id": "person_dario_ballabio",
+"label": "Person",
+"name": "Dario Ballabio"
+},
+{
+"id": "person_maria_luisa_sibilia",
+"label": "Person",
+"name": "Maria Luisa Sibilia"
+},
+{
+"id": "person_giuseppina_busco",
+"label": "Person",
+"name": "Giuseppina Busco"
+},
+{
+"id": "person_mauro_busco",
+"label": "Person",
+"name": "Mauro Busco"
+},
+{
+"id": "person_paolo_busco",
+"label": "Person",
+"name": "Paolo Busco"
+},
+{
+"id": "person_paola_lopizzo",
+"label": "Person",
+"name": "Paola Lopizzo"
+},
+{
+"id": "person_luciano_garofano",
+"label": "Person",
+"name": "Luciano Garofano"
+},
+{
+"id": "person_marco_pizzamiglio",
+"label": "Person",
+"name": "Marco Pizzamiglio"
+},
+{
+"id": "person_stefano_moriani",
+"label": "Person",
+"name": "Stefano Moriani"
+},
+{
+"id": "person_ozrem_carella_prada",
+"label": "Person",
+"name": "Ozrem Carella Prada"
+},
+{
+"id": "person_paolo_dionisi",
+"label": "Person",
+"name": "Paolo Dionisi"
+},
+{
+"id": "person_domenico_candida",
+"label": "Person",
+"name": "Domenico Candida"
+},
+{
+"id": "person_claudio_ciampini",
+"label": "Person",
+"name": "Claudio Ciampini"
+},
+{
+"id": "person_vincenzo_lorenzo_pascali",
+"label": "Person",
+"name": "Vincenzo Lorenzo Pascali"
+},
+{
+"id": "person_maria_victoria_lareu_huidobro",
+"label": "Person",
+"name": "María Victoria Lareu Huidobro"
+},
+{
+"id": "person_giuseppe_novelli",
+"label": "Person",
+"name": "Giuseppe Novelli"
+},
+{
+"id": "person_emiliano_giardina",
+"label": "Person",
+"name": "Emiliano Giardina"
+},
+{
+"id": "person_giancarlo_umani_ronchi",
+"label": "Person",
+"name": "Giancarlo Umani Ronchi"
+},
+{
+"id": "person_piero_rocchini",
+"label": "Person",
+"name": "Piero Rocchini"
+},
+{
+"id": "person_nicola_cavaliere",
+"label": "Person",
+"name": "Nicola Cavaliere"
+},
+{
+"id": "person_antonio_del_greco",
+"label": "Person",
+"name": "Antonio Del Greco"
+},
+{
+"id": "person_corrado_carboni",
+"label": "Person",
+"name": "Corrado Carboni"
+},
+{
+"id": "person_anna_angelone",
+"label": "Person",
+"name": "Anna Angelone"
+},
+{
+"id": "person_giuseppe_carrino",
+"label": "Person",
+"name": "Giuseppe Carrino"
+},
+{
+"id": "person_raffaello_lisi",
+"label": "Person",
+"name": "Raffaello Lisi"
+},
+{
+"id": "person_giulia_pierantonietti",
+"label": "Person",
+"name": "Giulia Pierantonietti"
+},
+{
+"id": "person_alessandro_biancini",
+"label": "Person",
+"name": "Alessandro Biancini"
+},
+{
+"id": "person_giampiero_marzi",
+"label": "Person",
+"name": "Giampiero Marzi"
+},
+{
+"id": "person_corrado_cipolla_d_abruxzo",
+"label": "Person",
+"name": "Corrado Cipolla D'Abruzzo"
+},
+{
+"id": "person_carlo_previdere",
+"label": "Person",
+"name": "Carlo Previderè"
+},
+{
+"id": "person_paolo_fattorini",
+"label": "Person",
+"name": "Paolo Fattorini"
+},
+{
+"id": "person_giovanni_arcudi",
+"label": "Person",
+"name": "Giovanni Arcudi"
+},
+{
+"id": "person_chantal_milani",
+"label": "Person",
+"name": "Chantal Milani"
+},
+{
+"id": "person_boscolo",
+"label": "Person",
+"name": "Boscolo"
+},
+{
+"id": "person_giulia_caracciolo",
+"label": "Person",
+"name": "Giulia Caracciolo di Sarno"
+},
+{
+"id": "person_anna_rita_pelucchini",
+"label": "Person",
+"name": "Anna Rita Pelucchini"
+},
+{
+"id": "person_maria_di_giacomo",
+"label": "Person",
+"name": "Maria Di Giacomo"
+},
+{
+"id": "person_roberta_milletari",
+"label": "Person",
+"name": "Roberta Milletarì"
+},
+{
+"id": "loc_quartiere_della_vittoria",
+"label": "Location",
+"name": "Quartiere Della Vittoria"
+},
+{
+"id": "loc_roma",
+"label": "Location",
+"name": "Roma"
+},
+
+{
+"id": "loc_scena_del_delitto_via_poma",
+"label": "Location",
+"name": "Scena del delitto e complesso di Via Carlo Poma 2"
+},
+
+{
+"id": "weapon_arma_bianca",
+"label": "Weapon",
+"name": "Arma bianca da punta e taglio"
+},
+{
+"id": "evidence_tracce_ematiche_biologiche",
+"label": "Evidence",
+"name": "Tracce ematiche e biologiche sulla scena"
+},
+{
+"id": "evidence_condizioni_corpo",
+"label": "Evidence",
+"name": "Ferite, lesioni e segni sul corpo della vittima"
+},
+{
+"id": "evidence_abiti_effetti",
+"label": "Evidence",
+"name": "Abiti ed effetti personali di Simonetta"
+},
+{
+"id": "evidence_reperti_scena",
+"label": "Evidence",
+"name": "Reperti e tracce materiali della scena del crimine"
+},
+{
+"id": "evidence_documentazione",
+"label": "Evidence",
+"name": "Documentazione, registrazioni e altri elementi investigativi"
+},
+{
+"id": "statement_testimonianze_scena",
+"label": "Statement",
+"name": "Testimonianze e dichiarazioni sulla scena, presenze e alibi"
+},
+{
+"id": "statement_dichiarazioni_processuali",
+"label": "Statement",
+"name": "Dichiarazioni processuali di Raniero Busco e Pietrino Vanacore"
+},
+{
+"id": "statement_dichiarazioni_pubbliche",
+"label": "Statement",
+"name": "Dichiarazioni e smentite pubbliche"
+},
+{
+"id": "motive_ipotesi_movente",
+"label": "Motive",
+"name": "Ipotesi di movente del delitto"
+},
+{
+"id": "charge_omicidio_volontario",
+"label": "Charge",
+"name": "Omicidio volontario"
+},
+{
+"id": "charge_omicidio_volontario_crudelta",
+"label": "Charge",
+"name": "Omicidio volontario aggravato dalla crudeltà"
+},
+{
+"id": "charge_favoreggiamento",
+"label": "Charge",
+"name": "Favoreggiamento"
+},
+{
+"id": "charge_fuga_notizie",
+"label": "Charge",
+"name": "Fuga di notizie"
+},
+{
+"id": "charge_aiuto_istigazione_suicidio",
+"label": "Charge",
+"name": "Aiuto e istigazione al suicidio"
+},
+{
+"id": "charge_falsa_testimonianza",
+"label": "Charge",
+"name": "Falsa testimonianza"
+},
+{
+"id": "charge_minacce_aggressione",
+"label": "Charge",
+"name": "Minacce e aggressione"
+}
+],
+"relationships": [
+{
+"source_id": "person_simonetta_cesaroni",
+"target_id": "case_delitto_via_poma",
+"type": "IS_VICTIM_OF"
+},
+{
+"source_id": "person_pietrino_vanacore",
+"target_id": "case_delitto_via_poma",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_federico_valle",
+"target_id": "case_delitto_via_poma",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_raniero_busco",
+"target_id": "case_delitto_via_poma",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_francesco_caracciolo",
+"target_id": "case_delitto_via_poma",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_mario_vanacore",
+"target_id": "case_delitto_via_poma",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_sergio_costa",
+"target_id": "case_delitto_via_poma",
+"type": "INVESTIGATES"
+},
+{
+"source_id": "person_roberto_cavallone",
+"target_id": "case_delitto_via_poma",
+"type": "INVESTIGATES"
+},
+{
+"source_id": "person_catalani",
+"target_id": "case_delitto_via_poma",
+"type": "INVESTIGATES"
+},
+{
+"source_id": "person_calabrese",
+"target_id": "case_delitto_via_poma",
+"type": "INVESTIGATES"
+},
+{
+"source_id": "person_ilariacalo",
+"target_id": "case_delitto_via_poma",
+"type": "INVESTIGATES"
+},
+{
+"source_id": "person_gianfederica_dito",
+"target_id": "case_delitto_via_poma",
+"type": "INVESTIGATES"
+},
+{
+"source_id": "person_paola_loria",
+"target_id": "person_raniero_busco",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_franco_coppi",
+"target_id": "person_raniero_busco",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_maria_antonietta_la_mazza",
+"target_id": "person_salvatore_volponi",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_lucio_molinaro",
+"target_id": "person_anna_di_giambattista",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_federica_mondani",
+"target_id": "person_paola_cesaroni",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_massimo_lauro",
+"target_id": "person_anna_di_giambattista",
+"type": "DEFENDS"
+},
+{
+"source_id": "person_andrea_magnanelli",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_paola_cesaroni",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_antonello_barone",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_anna_di_giambattista",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_claudio_cesaroni",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giuseppa_de_luca",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_luca_volponi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giuseppe_macinati",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_bianca_limongiello",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_fabio_forza",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_salvatore_sibilia",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_anita_baldi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_marco_santangelo",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_luigi_piccinini",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_cherubino_gagliardi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_ciro_solimene",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_franco_martinelli",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_laura_nardi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_sergio_salis",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_luigi_mattiacci",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_fabrizio_brezzi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_ali_ben_musba",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_danilo_gobbi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_nicolino_grimaldi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_virginia_rotti",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_manlio_giammona_indaco",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_anna_petrillo",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_ottavio_saviane",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giovanni_danese",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_luigi_poli",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_fabrizio_priori",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_franco_brucato",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_vanessa_canali",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_pietro_camolese",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_stefano_carucci",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_valerio_franchina",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_piero_marietti",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_simone_palombi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_donatella_villani",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_sergio_d_aquino",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_anna_rita_testa",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_marco_giusti",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_nazzareno_fiorucci",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_francesca_persico",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_rita_surace",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giuseppina_busco",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_mauro_busco",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_paolo_busco",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_maria_di_giacomo",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_anna_rita_pelucchini",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_paola_lopizzo",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giulia_pierantonietti",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_alessandro_biancini",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giampiero_marzi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_maria_luisa_sibilia",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giuseppina_faustini",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_riccardo_sensi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_flora_de_angelis",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_luigino_prili",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_anna_angelone",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giuseppe_carrino",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_raffaello_lisi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giulia_caracciolo",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_luciano_garofano",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_marco_pizzamiglio",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_stefano_moriani",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_ozrem_carella_prada",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_paolo_dionisi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_domenico_candida",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_claudio_ciampini",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_vincenzo_lorenzo_pascali",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_maria_victoria_lareu_huidobro",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giuseppe_novelli",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_emiliano_giardina",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giancarlo_umani_ronchi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_piero_rocchini",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_corrado_cipolla_d_abruxzo",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_carlo_previdere",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_paolo_fattorini",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_giovanni_arcudi",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_chantal_milani",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_boscolo",
+"target_id": "case_delitto_via_poma",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "case_delitto_via_poma",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "OCCURRED_AT"
+},
+{
+"source_id": "loc_quartiere_della_vittoria",
+"target_id": "loc_roma",
+"type": "WITHIN"
+},
+{
+"source_id": "person_pietrino_vanacore",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "LOCATED_IN"
+},
+{
+"source_id": "person_giuseppa_de_luca",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "LOCATED_IN"
+},
+{
+"source_id": "person_cesare_valle",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "LOCATED_IN"
+},
+{
+"source_id": "person_francesco_caracciolo",
+"target_id": "loc_roma",
+"type": "LOCATED_IN"
+},
+{
+"source_id": "person_fabio_forza",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "LOCATED_IN"
+},
+{
+"source_id": "weapon_arma_bianca",
+"target_id": "case_delitto_via_poma",
+"type": "USED_IN"
+},
+{
+"source_id": "case_delitto_via_poma",
+"target_id": "motive_ipotesi_movente",
+"type": "HAS_MOTIVE"
+},
+{
+"source_id": "person_roland_voller",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_giuliana_ferrara",
+"target_id": "statement_dichiarazioni_pubbliche",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_cesare_valle",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_giuseppa_de_luca",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_bianca_limongiello",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_giuseppe_macinati",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_enrico_mentana",
+"target_id": "statement_dichiarazioni_pubbliche",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_raniero_busco",
+"target_id": "statement_dichiarazioni_processuali",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_simone_palombi",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_pietrino_vanacore",
+"target_id": "statement_dichiarazioni_processuali",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_mario_vanacore",
+"target_id": "statement_dichiarazioni_pubbliche",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_anna_maria_scognamiglio",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_rosaria_de_familiis",
+"target_id": "statement_testimonianze_scena",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "person_raniero_busco",
+"target_id": "charge_omicidio_volontario_crudelta",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "person_pietrino_vanacore",
+"target_id": "charge_favoreggiamento",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "case_delitto_via_poma",
+"target_id": "charge_omicidio_volontario",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "case_delitto_via_poma",
+"target_id": "charge_omicidio_volontario_crudelta",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "statement_testimonianze_scena",
+"target_id": "case_delitto_via_poma",
+"type": "RELATES_TO"
+},
+{
+"source_id": "statement_dichiarazioni_pubbliche",
+"target_id": "case_delitto_via_poma",
+"type": "RELATES_TO"
+},
+{
+"source_id": "statement_dichiarazioni_processuali",
+"target_id": "case_delitto_via_poma",
+"type": "RELATES_TO"
+},
+{
+"source_id": "evidence_tracce_ematiche_biologiche",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_condizioni_corpo",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_abiti_effetti",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_reperti_scena",
+"target_id": "loc_scena_del_delitto_via_poma",
+"type": "FOUND_AT"
+}
+]
+}

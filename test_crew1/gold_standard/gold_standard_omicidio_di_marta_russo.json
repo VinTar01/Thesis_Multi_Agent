@@ -1,0 +1,256 @@
+{
+"entities": [
+{
+"id": "case_omicidio_marta_russo",
+"label": "Case",
+"name": "Omicidio di Marta Russo"
+},
+{
+"id": "loc_roma",
+"label": "Location",
+"name": "Roma"
+},
+{
+"id": "loc_citta_universitaria_sapienza",
+"label": "Location",
+"name": "Città Universitaria della Sapienza"
+},
+{
+"id": "person_marta_russo",
+"label": "Person",
+"name": "Marta Russo"
+},
+{
+"id": "person_giovanni_scattone",
+"label": "Person",
+"name": "Giovanni Scattone"
+},
+{
+"id": "person_salvatore_ferraro",
+"label": "Person",
+"name": "Salvatore Ferraro"
+},
+{
+"id": "person_jolanda_ricci",
+"label": "Person",
+"name": "Jolanda Ricci"
+},
+{
+"id": "person_donato_russo",
+"label": "Person",
+"name": "Donato Russo"
+},
+{
+"id": "person_aureliana_iacoboni",
+"label": "Person",
+"name": "Aureliana Iacoboni"
+},
+{
+"id": "person_tiziana_russo",
+"label": "Person",
+"name": "Tiziana Russo"
+},
+{
+"id": "person_francesco_liparota",
+"label": "Person",
+"name": "Francesco Liparota"
+},
+{
+"id": "person_gabriella_alletto",
+"label": "Person",
+"name": "Gabriella Alletto"
+},
+{
+"id": "person_maria_chiara_lipari",
+"label": "Person",
+"name": "Maria Chiara Lipari"
+},
+{
+"id": "person_bruno_romano",
+"label": "Person",
+"name": "Bruno Romano"
+},
+{
+"id": "person_carmelo_zingale",
+"label": "Person",
+"name": "Carmelo Zingale"
+},
+{
+"id": "weapon_pistola_calibro_22",
+"label": "Weapon",
+"name": "Pistola calibro .22"
+},
+{
+"id": "evidence_proiettile_frammenti",
+"label": "Evidence",
+"name": "Proiettile calibro .22 frammentato"
+},
+{
+"id": "evidence_particella_ferro_bario_antimonio",
+"label": "Evidence",
+"name": "Particella di ferro-bario-antimonio sul davanzale dell'aula 6"
+},
+{
+"id": "evidence_tracce_borsa_ferraro",
+"label": "Evidence",
+"name": "Residui chimici sulla borsa di Salvatore Ferraro"
+},
+{
+"id": "evidence_pistola_arrugginita_rettorato",
+"label": "Evidence",
+"name": "Pistola Beretta arrugginita rinvenuta in un bagno del Rettorato"
+},
+{
+"id": "evidence_cartucce_fisiologia",
+"label": "Evidence",
+"name": "Cartucce ritrovate nell'Istituto di Fisiologia"
+},
+{
+"id": "motive_nessun_movente_apparente",
+"label": "Motive",
+"name": "Sparo accidentale/Nessun movente certo"
+},
+{
+"id": "statement_accusa_alletto",
+"label": "Statement",
+"name": "Dichiarazione accusatoria di Gabriella Alletto"
+},
+{
+"id": "statement_testimonianza_lipari",
+"label": "Statement",
+"name": "Testimonianza di Maria Chiara Lipari sulle presenze nell'aula 6"
+},
+{
+"id": "charge_omicidio_colposo_aggravato",
+"label": "Charge",
+"name": "Omicidio colposo aggravato"
+},
+{
+"id": "charge_favoreggiamento_personale",
+"label": "Charge",
+"name": "Favoreggiamento personale"
+}
+],
+"relationships": [
+{
+"source_id": "case_omicidio_marta_russo",
+"target_id": "loc_citta_universitaria_sapienza",
+"type": "OCCURRED_AT"
+},
+{
+"source_id": "loc_citta_universitaria_sapienza",
+"target_id": "loc_roma",
+"type": "WITHIN"
+},
+{
+"source_id": "person_marta_russo",
+"target_id": "case_omicidio_marta_russo",
+"type": "IS_VICTIM_OF"
+},
+{
+"source_id": "person_giovanni_scattone",
+"target_id": "case_omicidio_marta_russo",
+"type": "COMMITTED"
+},
+{
+"source_id": "person_salvatore_ferraro",
+"target_id": "case_omicidio_marta_russo",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_jolanda_ricci",
+"target_id": "case_omicidio_marta_russo",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_francesco_liparota",
+"target_id": "case_omicidio_marta_russo",
+"type": "INVOLVED_IN"
+},
+{
+"source_id": "person_carmelo_zingale",
+"target_id": "case_omicidio_marta_russo",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_bruno_romano",
+"target_id": "case_omicidio_marta_russo",
+"type": "IS_SUSPECTED_IN"
+},
+{
+"source_id": "person_giovanni_scattone",
+"target_id": "charge_omicidio_colposo_aggravato",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "person_salvatore_ferraro",
+"target_id": "charge_favoreggiamento_personale",
+"type": "CHARGED_WITH"
+},
+{
+"source_id": "case_omicidio_marta_russo",
+"target_id": "charge_omicidio_colposo_aggravato",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "case_omicidio_marta_russo",
+"target_id": "charge_favoreggiamento_personale",
+"type": "INCLUDES_CHARGE"
+},
+{
+"source_id": "case_omicidio_marta_russo",
+"target_id": "motive_nessun_movente_apparente",
+"type": "HAS_MOTIVE"
+},
+{
+"source_id": "weapon_pistola_calibro_22",
+"target_id": "case_omicidio_marta_russo",
+"type": "USED_IN"
+},
+{
+"source_id": "evidence_proiettile_frammenti",
+"target_id": "person_marta_russo",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_particella_ferro_bario_antimonio",
+"target_id": "loc_citta_universitaria_sapienza",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_tracce_borsa_ferraro",
+"target_id": "loc_citta_universitaria_sapienza",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_pistola_arrugginita_rettorato",
+"target_id": "loc_citta_universitaria_sapienza",
+"type": "FOUND_AT"
+},
+{
+"source_id": "evidence_cartucce_fisiologia",
+"target_id": "loc_citta_universitaria_sapienza",
+"type": "FOUND_AT"
+},
+{
+"source_id": "person_gabriella_alletto",
+"target_id": "statement_accusa_alletto",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "statement_accusa_alletto",
+"target_id": "case_omicidio_marta_russo",
+"type": "RELATES_TO"
+},
+{
+"source_id": "person_maria_chiara_lipari",
+"target_id": "statement_testimonianza_lipari",
+"type": "MADE_STATEMENT"
+},
+{
+"source_id": "statement_testimonianza_lipari",
+"target_id": "case_omicidio_marta_russo",
+"type": "RELATES_TO"
+}
+]
+}
